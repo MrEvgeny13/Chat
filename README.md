@@ -1,5 +1,5 @@
 # Chat
-**Launch tutorial:**
+**Startup instruction:**
 
 1) Launch "Server":
 
@@ -7,7 +7,7 @@
 
 2) Launch "ClientGuiController":
 
-2.1. Address:  localhost || 0.0.0.0 || 127.0.0.1; 
+2.1. Address: localhost || 0.0.0.0 || 127.0.0.1; 
 
 2.2. Port: same (see 1.1);
 
